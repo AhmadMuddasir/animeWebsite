@@ -1,0 +1,60 @@
+ul li a {
+    margin: 12px;
+}
+.box_bg{
+    background: rgb(255,136,65);
+background: linear-gradient(147deg, rgb(67, 207, 218) 0%, rgb(16, 69, 73) 50%, rgb(5, 123, 170) 100%);
+
+}
+
+.text_gradient {
+    
+    background: linear-gradient(147deg, rgba(255,136,65,1) 0%, rgba(228,112,16,1) 50%, rgba(101,54,0,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 12px 4px  83px rgb(255, 208, 120);
+  }
+.orangeGradient:hover {
+    
+    background: linear-gradient(147deg, rgba(255,136,65,1) 0%, rgba(228,112,16,1) 50%, rgba(101,54,0,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 12px 4px 123px orange;
+  }
+  .box_shadow{
+    box-shadow: 13px 23px 80px rgb(2, 52, 65);
+  }
+
+  video {
+  position: relative;
+  top: -20px;
+  opacity: calc(50%);
+  height: 90vh;
+  width: 100vw;
+    }
+
+
+  .line_bg{
+
+    color: white;
+    background: rgb(205,255,255);
+    background: linear-gradient(130deg, rgba(205,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(252,194,92,1) 25%, rgba(31,186,51,1) 45%, rgba(172,13,250,1) 65%, rgba(255,131,0,1) 100%); 
+
+    width: 400px;
+    height: 4px;
+
+  }
+  .react-multi-carousel-item{
+   padding: 12px;
+    }
+
+  .h1_style{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    line-height: 45px;
+    }
+    svg{
+      font-size: 50px;
+    }
+

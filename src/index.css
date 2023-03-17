@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body{
+  text-transform: capitalize;
+  color: #ffff;
+	background: rgb(205,255,255);
+background: linear-gradient(130deg, rgba(205,255,255,1) 0%, rgba(4,36,40,1) 0%, rgba(4,30,59,1) 25%, rgba(5,16,32,1) 50%, rgba(5,23,48,1) 75%, rgba(0,31,43,1) 100%);
+}
