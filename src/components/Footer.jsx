@@ -11,7 +11,7 @@ function Footer() {
 
   return (
     <>
-    <div className="line_bg w-[100%]"></div>
+    <div className="line_bg my-4 w-[100%]"></div>
     <footer id="About" className="flex flex-col sm:flex-row justify-center items-center Menu_bg p-1 mt-8 rounded-sm box_bg">
       <div className="flex justify-center flex-col items-start">
         <p  ><img src={logo} alt="logo" className="w-[30%] h-[30%]"/></p>
@@ -25,11 +25,11 @@ function Footer() {
       </div>
 
       <div className="flex justify-center items-start">
-        <p className=" m-2 cursor-pointer  hover:text-blue-300"><InstagramIcon></InstagramIcon></p>
-        <p className=" m-2 cursor-pointer  hover:text-blue-300"><FacebookIcon></FacebookIcon></p>
-        <p className=" m-2 cursor-pointer  hover:text-blue-300"><TwitterIcon></TwitterIcon></p>
-        <p className=" m-2 cursor-pointer  hover:text-blue-300"><LinkedInIcon></LinkedInIcon></p>
-        <p className=" m-2 cursor-pointer  hover:text-blue-300"><RedditIcon></RedditIcon></p>
+        <p className=" m-2 cursor-pointer  hover:text-black"><InstagramIcon></InstagramIcon></p>
+        <p className=" m-2 cursor-pointer  hover:text-black"><FacebookIcon></FacebookIcon></p>
+        <p className=" m-2 cursor-pointer  hover:text-black"><TwitterIcon></TwitterIcon></p>
+        <p className=" m-2 cursor-pointer  hover:text-black"><LinkedInIcon></LinkedInIcon></p>
+        <p className=" m-2 cursor-pointer  hover:text-black"><RedditIcon></RedditIcon></p>
       </div>
       <hr />
     </footer>

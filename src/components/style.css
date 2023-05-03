@@ -3,7 +3,7 @@ ul li a {
 }
 .box_bg{
     background: rgb(255,136,65);
-background: linear-gradient(147deg, rgb(67, 207, 218) 0%, rgb(16, 69, 73) 50%, rgb(5, 123, 170) 100%);
+background: linear-gradient(147deg, rgb(56, 125, 131) 0%, rgb(15, 41, 43)0%, rgb(25, 76, 97) 100%);
 
 }
 
@@ -57,4 +57,7 @@ background: linear-gradient(147deg, rgb(67, 207, 218) 0%, rgb(16, 69, 73) 50%, r
     svg{
       font-size: 50px;
     }
+img{
+  overflow: hidden;
+}
 

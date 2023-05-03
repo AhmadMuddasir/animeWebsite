@@ -14,7 +14,7 @@ const Navbar = () => {
    
       <div className="absolute z-10 navbar flex w-[100%]  sm:justify-around justify-between sm:items-center p-2 ">
         <div className='flex justify-start items-start w-[90px]  rounded-sm'>
-          <img src={img} alt="img" />
+          <img className='w-[70%] sm:w-[100%]' src={img} alt="img" />
         </div>
         <ul className='nav_gradient sm:flex hidden justify-between items-center m-1 font-bold text-2xl text-gradient'>
           <li> <a className='orangeGradient' href="#">Home   </a></li>
@@ -22,7 +22,6 @@ const Navbar = () => {
           <li> <a className='orangeGradient' href="#Movies">Movies</a>  </li>
           <li> <a className='orangeGradient' href="#WebSeries">WebSeries</a>  </li>
         </ul>
-        {/* <div className='sm:flex hidden  line_bg '></div> */}
 
         <div className='sm:hidden'>
           {

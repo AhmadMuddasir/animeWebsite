@@ -4,6 +4,7 @@ import Header from "./Header";
 import LoginPage from "./LoginPage";
 import Image from "./Image";
 import Footer from "./Footer";
+import Companies from "./Companies";
 
 export  {
     Navbar,
@@ -11,5 +12,6 @@ export  {
     Header,
     LoginPage,
     Image,
-    Footer
+    Footer,
+    Companies
 }

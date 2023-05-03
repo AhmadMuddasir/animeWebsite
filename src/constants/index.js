@@ -29,7 +29,7 @@ export const responsive = {
     {
       id:2,
       image:"https://img.zorores.com/_r/300x400/100/16/ee/16eec56baf8f3fcc6430607f58ce3d12/16eec56baf8f3fcc6430607f58ce3d12.jpg",
-      link:"https://zoro.to/new-gods-yang-jian-18316",
+      link:"https://zoro.to/watch/your-name-10?ep=57910",
       name:"Your Name",
     },
     {

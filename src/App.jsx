@@ -2,7 +2,7 @@ import React from 'react'
 
 
 
-import {Navbar,Header,AnimeCard,Image,LoginPage,Footer} from "./components"
+import {Navbar,Header,AnimeCard,Image,LoginPage,Footer,Companies} from "./components"
 
 
 const App = () => {
@@ -13,6 +13,7 @@ const App = () => {
     <AnimeCard></AnimeCard>
     <Image></Image>
     <LoginPage></LoginPage>
+    <Companies></Companies>
     <Footer></Footer>
 
 
