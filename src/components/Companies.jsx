@@ -18,7 +18,7 @@ const  Companies =  () => (
     style={{
       display: 'flex',
       justifyContent: 'center',
-      background: 'linear-gradient(to bottom, #03815e 0%, #151233 100%)',
+      background: '  linear-gradient(to bottom, #135175 0%, #3f397c 100%' ,
     }}
   >
     <Carousel height={260} width={980} yOrigin={42} yRadius={48} autoPlay={true}>

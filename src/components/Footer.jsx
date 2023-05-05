@@ -12,7 +12,7 @@ function Footer() {
   return (
     <>
     <div className="line_bg my-4 w-[100%]"></div>
-    <footer id="About" className="flex flex-col sm:flex-row justify-center items-center Menu_bg p-1 mt-8 rounded-sm box_bg">
+    <footer id="About" className="flex flex-col sm:flex-row justify-center items-center  p-1 mt-8 rounded-sm box_bg">
       <div className="flex justify-center flex-col items-start">
         <p  ><img src={logo} alt="logo" className="w-[30%] h-[30%]"/></p>
       </div>
